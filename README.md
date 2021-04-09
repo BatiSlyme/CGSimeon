@@ -7,3 +7,8 @@
 * I, K, J, L - light source control (front, back, left, right)
 * O, U - moving the light source (up, down)
 * Z, X, C, V, Z + X, Z + C, X + C - light color change (Z - red, X - green, C - blue, V - white)
+ ## Required libraries
+ * glew32s.lib
+ * glf3.lib
+ * SOIL.lib
+ * glm

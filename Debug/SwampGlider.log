@@ -1,0 +1,26 @@
+﻿  Camera.cpp
+  Object.cpp
+  SwampGliderMain.cpp
+C:\Users\Moni\source\repos\GKOM-opengl-swamp_boat\SwampGlider\shader.h(55,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Moni\source\repos\GKOM-opengl-swamp_boat\SwampGlider\SwampGliderMain.cpp(116,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Moni\source\repos\GKOM-opengl-swamp_boat\SwampGlider\SwampGliderMain.cpp(412,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Moni\source\repos\GKOM-opengl-swamp_boat\SwampGlider\SwampGliderMain.cpp(416,25): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Moni\source\repos\GKOM-opengl-swamp_boat\SwampGlider\SwampGliderMain.cpp(428,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Generating code
+  Finished generating code
+LINK : warning LNK4286: symbol '___glewActiveTexture' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewBindBuffer' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewBufferData' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewDeleteBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewGenBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewEnableVertexAttribArray' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewUniform1i' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewUniformMatrix4fv' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewVertexAttribPointer' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewGenerateMipmap' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewBindVertexArray' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewDeleteVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+LINK : warning LNK4286: symbol '___glewGenVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'Object.obj'
+  SwampGlider.vcxproj -> C:\Users\Moni\Source\Repos\GKOM-opengl-swamp_boat\Debug\SwampGlider.exe

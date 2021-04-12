@@ -65,7 +65,7 @@ private:
 	void setIndices() override {
 
 		for (int i = 0; i < CIRCLE_VERTS - 2; ++i) {
-			// podstawa gorna
+			// top surface
 			indices.push_back(0);
 			indices.push_back(i + 1);
 			indices.push_back(i + 2);

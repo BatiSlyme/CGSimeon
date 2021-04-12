@@ -10,5 +10,5 @@
  ## Required libraries
  * opengl32.lib
  * glew32s.lib
- * glf3.lib
+ * glfw3.lib
  * SOIL.lib
